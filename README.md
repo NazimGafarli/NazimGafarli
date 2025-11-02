@@ -2,9 +2,8 @@
 <h3 align="center">Full-Stack Developer & AI Solutions Engineer</h3>
 
 <p align="center">
-  <a href="[YOUR PORTFOLIO URL]">Portfolio</a> •
-  <a href="[YOUR LINKEDIN URL]">LinkedIn</a> •
-  <a href="mailto:[YOUR EMAIL]">Email</a>
+  <a href="https://www.linkedin.com/in/nazimgafarli/">LinkedIn</a> •
+  <a href="mailto:gafarlinazim@gmail.com">Email</a>
 </p>
 
 ---
