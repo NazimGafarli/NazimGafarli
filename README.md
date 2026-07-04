@@ -1,154 +1,214 @@
-<!-- 
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║  ███╗   ██╗ █████╗ ███████╗██╗███╗   ███╗                   ║
-║  ████╗  ██║██╔══██╗╚══███╔╝██║████╗ ████║                   ║
-║  ██╔██╗ ██║███████║  ███╔╝ ██║██╔████╔██║                   ║
-║  ██║╚██╗██║██╔══██║ ███╔╝  ██║██║╚██╔╝██║                   ║
-║  ██║ ╚████║██║  ██║███████╗██║██║ ╚═╝ ██║                   ║
-║  ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝     ╚═╝                   ║
-║                                                               ║
-║  G A F A R L I  ·  N A Z I M                                ║
-║                                                               ║
-║  PRINCIPAL FULL STACK ENGINEER                               ║
-║  CLOUD ARCHITECT · SYSTEM DESIGNER                          ║
-║  ✦ BUILDING THE FUTURE OF ENTERPRISE SOFTWARE ✦             ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
 
-<!-- ANIMATED TYPING HEADER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=45&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=900&height=120&lines=NAZIM+GAFARLI;PRINCIPAL+FULL+STACK+ENGINEER;CLOUD+ARCHITECT;SYSTEM+DESIGNER;ENTERPRISE+SOLUTIONS+ARCHITECT)](https://git.io/typing-svg)
+# ⚡ NAZIM GAFARLI
 
-<!-- PREMIUM DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+### Principal Full Stack Engineer · Cloud Architect · System Designer
 
-<!-- PROFESSIONAL SOCIAL BADGES -->
-<p align="center">
-  <a href="https://linkedin.com/in/nazimgafarli">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A1628"/>
-  </a>
-  <a href="mailto:gafarlinazim@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A1628"/>
-  </a>
-  <a href="https://github.com/NazimGafarli">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A1628"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=0A1628"/>
-  </a>
-</p>
+---
 
-<!-- STATUS BADGES -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NazimGafarli&label=PROFILE%20VIEWS&color=FFD700&style=for-the-badge&labelColor=0A1628"/>
-  <img src="https://img.shields.io/github/followers/NazimGafarli?label=FOLLOWERS&style=for-the-badge&color=FFD700&labelColor=0A1628"/>
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-FFD700?style=for-the-badge&labelColor=0A1628"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nazimgafarli)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NazimGafarli)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gafarlinazim@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nazimgafarli.dev)
+
+---
+
+[![Profile Views](https://komarev.com/ghpvc/?username=NazimGafarli&label=PROFILE%20VIEWS&color=gold&style=flat-square)](https://github.com/NazimGafarli)
+[![Followers](https://img.shields.io/github/followers/NazimGafarli?label=FOLLOWERS&color=gold&style=flat-square)](https://github.com/NazimGafarli)
+[![Status](https://img.shields.io/badge/STATUS-ACTIVE-gold?style=flat-square)](https://github.com/NazimGafarli)
+[![Open To Work](https://img.shields.io/badge/OPEN%20TO-WORK-gold?style=flat-square)](https://github.com/NazimGafarli)
+
+---
 
 </div>
 
----
+## 👑 Executive Summary
 
-## 👑 EXECUTIVE SUMMARY
+> **Principal Full Stack Engineer** with 3+ years of experience architecting enterprise-grade, cloud-native solutions for global financial institutions and technology leaders. Expertise in high-performance distributed systems, AI-driven applications, and scalable microservices that drive business transformation.
 
-> **Visionary Full Stack Engineer** with proven expertise in architecting and delivering **enterprise-grade, cloud-native solutions** for global financial institutions and technology leaders. Specializing in **high-performance distributed systems** and **scalable microservices architectures** that drive business transformation.
+### 📊 Key Performance Indicators
 
-### Key Performance Metrics
-
-| Metric | Achievement |
-|--------|-------------|
-| 🚀 System Performance | **50%** Load Time Reduction |
-| 🏗️ Code Quality | **40%** Improvement |
-| ⚡ Deployment Speed | **40%** Faster CI/CD |
-| 🔒 Service Reliability | **30%** Improvement |
-| 📈 User Satisfaction | **20%** Increase |
-
----
-
-## 🏛️ ARCHITECTURE & EXPERTISE
-
-### 💎 Technology Stack
-
-#### **Languages**
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-</p>
-
-#### **Backend Frameworks**
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
-
-#### **Frontend Technologies**
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-</p>
-
-#### **Cloud & DevOps**
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-</p>
-
-#### **Databases**
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+| Metric | Achievement | Impact |
+|--------|-------------|--------|
+| System Performance | **50%** Load Reduction | Enhanced UX |
+| Code Quality | **40%** Improvement | Reduced Debt |
+| Deployment Speed | **40%** Faster CI/CD | Faster Time-to-Market |
+| On-Time Delivery | **25%** Increase | Improved Reliability |
+| Service Uptime | **99.99%** SLA | Mission-Critical Stable |
+| Projects Delivered | **25+** Enterprise Solutions | Industry Impact |
 
 ---
 
-## 📊 GITHUB STATISTICS
+## 💻 Technical Expertise
 
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=NazimGafarli&show_icons=true&theme=dark&bg_color=0A1628&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&hide_border=true" width="49%"/>
+### 🔷 Languages
+☕ Java (8,11,17) 📜 JavaScript (ES6+) 🎯 TypeScript
+🐍 Python 🔷 C++ ⚡ C#
+🐘 PHP ⚙️ Go 📊 SQL
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NazimGafarli&theme=dark&background=0A1628&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&hide_border=true" width="49%"/>
+text
 
-</div>
+### 🏗️ Backend & Frameworks
+Spring Boot Node.js .NET Core
+Django FastAPI Express.js
+GraphQL Microservices RESTful APIs
 
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazimGafarli&layout=compact&theme=dark&bg_color=0A1628&title_color=FFD700&text_color=FFFFFF&hide_border=true" width="49%"/>
+text
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NazimGafarli&bg_color=0A1628&color=FFD700&line=FFD700&point=FFFFFF&area=true&area_color=FFD700&hide_border=true" width="49%"/>
+### 🎨 Frontend Development
+React Angular Next.js
+Vue.js Redux Tailwind CSS
+Figma-to-Code Bootstrap HTML5/CSS3
 
-</div>
+text
+
+### ☁️ Cloud & Infrastructure
+AWS GCP Azure
+Docker Kubernetes Terraform
+CI/CD Pipelines Jenkins GitHub Actions
+
+text
+
+### 🗄️ Databases
+PostgreSQL MongoDB Redis
+MySQL DynamoDB Oracle SQL
+Cassandra Elasticsearch Query Optimization
+
+text
 
 ---
 
-## 🚀 SIGNATURE PROJECTS
+## 💼 Professional Experience
 
-### [Wombly]() 🏥
-**Maternal Health & Pediatric Care Platform**
+### 🏢 WIX | *Principal Full Stack Engineer*
+📍 New York, USA · Remote · 02/2026 - Present
 
-> Full-stack healthcare solution with real-time monitoring and AI-powered health analytics.
+| Achievement | Business Impact |
+|-------------|-----------------|
+| **40%** Code Quality Improvement | Advanced Version Control & CI/CD |
+| **50%** Load Time Reduction | Vue.js Performance Optimization |
+| **30%** Project Efficiency Increase | Strategic Architecture & Agile |
+| **30%** Service Reliability Boost | AI-Driven Incident Response |
+
+**🔑 Key Contributions:**
+- Engineered cloud-native solutions serving millions globally
+- Architected microservices handling 100K+ concurrent requests
+- Led cross-functional teams delivering enterprise features
+
+---
+
+### 🏦 BMO (Bank of Montreal) | *Senior Java Engineer*
+📍 Toronto, ON · Remote · 06/2025 - 05/2026
+
+| Achievement | Business Impact |
+|-------------|-----------------|
+| **25%** On-Time Delivery Increase | Agile Methodology Implementation |
+| **30%** Response Time Reduction | Automated Support Systems |
+| **20%** System Performance Boost | GCP Cloud Optimization |
+| **30%** Application Performance Increase | Advanced Architecture Design |
+
+**🔑 Key Contributions:**
+- Led enterprise solution development serving 10M+ customers
+- Architected scalable systems with 99.99% uptime
+- Integrated 3rd-party payment gateways & analytics
+
+---
+
+### 🚗 Toyota Canada Inc. | *Database Architect*
+📍 Toronto, ON · Hybrid · 06/2024 - 01/2025
+
+| Achievement | Business Impact |
+|-------------|-----------------|
+| **30%** Query Performance Improvement | Advanced SQL Optimization |
+| **40%** Faster Deployment | CI/CD Pipeline Implementation |
+| **30%** System Architecture Enhancement | Modernization Strategy |
+
+**🔑 Key Contributions:**
+- Designed mission-critical supply chain & inventory systems
+- Implemented RESTful APIs with Spring Boot
+- Optimized complex relational database schemas with Oracle SQL
+
+---
+
+## 🚀 Portfolio Projects
+
+### 🏥 [Wombly](https://github.com/NazimGafarli/Wombly)
+*Maternal Health & Pediatric Care Platform*
 
 ```yaml
-Tech Stack:
-  Frontend: React Native, TypeScript
-  Backend: Node.js, Express, GraphQL
-  Database: PostgreSQL, MongoDB, Redis
-  Cloud: AWS (ECS, RDS, S3)
+Frontend: React Native, TypeScript, Redux
+Backend: Node.js, Express, GraphQL
+Database: PostgreSQL, MongoDB, Redis
+Cloud: AWS (ECS, RDS, S3)
+AI: TensorFlow, OpenAI API
+🎨 DCGAN-WGANgp
+Deep Learning GAN Research
+
+yaml
+Language: Python 3.10
+Framework: PyTorch, TensorFlow
+Research: Mode Collapse Analysis
+Dataset: Anime & Pokémon
+✏️ Sketch-to-Photo
+Conditional GAN Implementation
+
+yaml
+Architecture: U-Net Generator + PatchGAN
+Framework: PyTorch
+Metrics: SSIM, PSNR, FID
+👗 NSMNIA Wardrobe
+Luxury E-Commerce Platform
+
+yaml
+Frontend: React, Tailwind, Framer Motion
+Backend: Spring Boot, JPA
+Database: PostgreSQL, Elasticsearch
+Payment: Stripe, PayPal
+🔊 NoiseLab
+Interactive Image Processing Tool
+
+yaml
+Language: Python
+Framework: Streamlit
+Libraries: OpenCV, NumPy, Pillow
+Features: Real-time Processing
+📊 GitHub Analytics
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=NazimGafarli&show_icons=true&theme=dark&bg_color=0A1628&title_color=gold&icon_color=gold&text_color=white&hide_border=true" width="49%"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NazimGafarli&theme=dark&background=0A1628&stroke=gold&ring=gold&fire=gold&currStreakLabel=gold&sideLabels=white&sideNums=white&currStreakNum=white&dates=white&hide_border=true" width="49%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazimGafarli&layout=compact&theme=dark&bg_color=0A1628&title_color=gold&text_color=white&hide_border=true" width="49%"><img src="https://github-readme-activity-graph.vercel.app/graph?username=NazimGafarli&bg_color=0A1628&color=gold&line=gold&point=white&area=true&area_color=gold&hide_border=true" width="49%"></div>
+🎓 Education & Certifications
+🏛️ Centennial College | Toronto, ON
+Diploma in Software Engineering Technology · 09/2024 - 08/2026
+
+Course	Achievement
+Advanced Java Programming	🏆 Honors
+Database Design & Management	🏆 Honors
+Cloud Computing Architecture	🏆 Honors
+Data Structures & Algorithms	🏆 Honors
+DevOps & CI/CD Pipelines	🏆 Honors
+📜 Certifications
+Certification	Issuer	Date
+Introduction to Software Engineering	IBM	12/2025
+IT Support Professional	Google	11/2025
+🤝 Community & Open Source
+Role	Organization	Focus
+Mentor	Google Developer Group Toronto	Junior Developers
+Contributor	Spring Boot Open Source	Framework Enhancements
+Speaker	Toronto Tech Summit	AI & Cloud Presentations
+Winner	AI for Good Hackathon	Healthcare Innovation
+📬 Connect With Me
+<div align="center">
+https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=About.me&logoColor=white
+
+📧 gafarlinazim@gmail.com
+🔗 linkedin.com/in/nazimgafarli
+📍 Toronto, ON, Canada
+
+https://komarev.com/ghpvc/?username=NazimGafarli&label=Profile%2520Views&color=gold&style=for-the-badge
+
+"Architecture is the art of creating lasting solutions that stand the test of time."
+
+Nazim Gafarli · Principal Full Stack Engineer
+
+</div> ```
